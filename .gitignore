@@ -12,3 +12,4 @@
 *.out
 config.ini     
 .vscode
+.idea
